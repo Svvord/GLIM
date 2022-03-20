@@ -8,7 +8,7 @@ parser = argparse.ArgumentParser(
   description='GLIM',
   formatter_class = argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument('--relationship-file', type=str, default='./data/relationship_table.txt')
-parser.add_argument('--node-feature-file', type=str, default='./data/relationship_n2v.npy')
+parser.add_argument('--node-feature-file', type=str, default='./data/node_feature.npy')
 parser.add_argument('--embedding-save-file', type=str, default='./results/hmln_feature.npy')
 
 args = parser.parse_args()
