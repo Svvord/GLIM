@@ -23,7 +23,7 @@ These step should take a few minutes.
 ## Getting started
 
 The HMLN relationship data is available in `/data/relationship_table.txt`.
-The public graph datasets used in paper are available throw following link:
+The public graph datasets used in paper are available through following link:
 
 https://cloud.tsinghua.edu.cn/f/ae74c356b31e436f881f/?dl=1
 
@@ -31,7 +31,7 @@ Two extra tutorials are available in `/tutorials/`
 
 ## Start runing
 
-To accelerate the running process, a preprocessed node feature file can be downloaded throw:
+To accelerate the running process, a preprocessed node feature file can be downloaded through:
 
 https://cloud.tsinghua.edu.cn/f/ae74c356b31e436f881f/?dl=1
 
